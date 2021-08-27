@@ -1,5 +1,5 @@
 # Backend MERN - Calendar
 
-Backend proyecto de curso. 
+Backend proyecto CalendarApp. 
 
 Ariana Chuquiruna.
